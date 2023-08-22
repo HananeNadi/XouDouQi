@@ -12,7 +12,7 @@ Xou Dou Qi, also called "Dou Shou Qi" in Chinese, is a traditional strategic boa
 
 
 # Game Rules  
-<img width="375" alt="x2" src="https://github.com/HananeNadi/XouDouQi/assets/127529925/94d1fdae-8444-47aa-81b2-254fb0ec76d5">
+<img width="375" alt="x2" src="https://github.com/HananeNadi/XouDouQi/assets/127529925/fa5c8151-b046-43e9-ba22-09c6c6c4e915">
 
 
   # Game Modes 
