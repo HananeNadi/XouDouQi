@@ -48,11 +48,13 @@ Note: If you choose to join the game, you will need to enter the IP address of y
  # More Interfaces 
  ## For the Winner 
  
-  <img width="372" alt="x9" src="https://github.com/HananeNadi/XouDouQi/assets/127529925/17daf1a9-3216-4410-9b82-7f031d74e3f1">
+  <img width="372" alt="x9" src="https://github.com/HananeNadi/XouDouQi/assets/127529925/5d8b0e79-7acb-465f-806f-92ebc4c322cf">
+
 
  ## For the Loser 
  
- <img width="374" alt="x3" src="https://github.com/HananeNadi/XouDouQi/assets/127529925/5316c1be-7d85-4ecf-a8f1-8d6d80a6fb66">
+ <img width="374" alt="x3" src="https://github.com/HananeNadi/XouDouQi/assets/127529925/31aa3dd8-61e6-4f3e-b347-a545a46291ab">
+
 
 
  # Tools used
