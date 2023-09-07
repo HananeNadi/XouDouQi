@@ -33,7 +33,7 @@ Play against human opponents on separate devices.
 <img width="366" alt="x6" src="https://github.com/HananeNadi/XouDouQi/assets/127529925/67c29f3c-2624-4265-97b5-b0bbef60d5ff">
 
 
-Note: If you choose to join the game, you will need to enter the IP address of your machine.
+Note: If you choose to join the game, you will need to enter the host's IPv4 address.
 
 # Features
 
